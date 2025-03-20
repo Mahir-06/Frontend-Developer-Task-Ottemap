@@ -33,3 +33,14 @@ A React application with OpenLayers integration for drawing, editing, and deleti
    - Draw Polygon: Click on the map to create polygon vertices, double-click to finish
    - Edit Polygon: Click and drag polygon vertices to modify shapes
    - Delete Polygon: Click on a polygon to delete it
+
+## 📌 Project Screenshots
+
+### 🔹 Home Page
+![Home Page](/screenshots/homepage_.png)
+
+### 🔹 Map View with OpenLayers
+![Map View](/screenshots/map-view.png)
+
+### 🔹 Draw Polygon with OpenLayers
+![Draw Polygon](/screenshots/draw-polygon.png)
